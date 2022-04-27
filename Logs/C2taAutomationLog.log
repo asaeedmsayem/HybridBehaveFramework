@@ -1,0 +1,44 @@
+
+
+
+
+====== WebDriver manager ======
+====== WebDriver manager ======
+Current google-chrome version is 100.0.4896
+Current google-chrome version is 100.0.4896
+Get LATEST chromedriver version for 100.0.4896 google-chrome
+Get LATEST chromedriver version for 100.0.4896 google-chrome
+Driver [C:\Users\Wedgewood\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+Driver [C:\Users\Wedgewood\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+*** Driver Initialized ***
+*** Driver Initialized ***
+*** Browser Launched ***
+*** Browser Launched ***
+*** HomePage Title Match Verified
+*** HomePage Title Match Verified
+*** Browser Closed ***
+*** Browser Closed ***
+
+
+
+
+====== WebDriver manager ======
+====== WebDriver manager ======
+Current google-chrome version is 100.0.4896
+Current google-chrome version is 100.0.4896
+Get LATEST chromedriver version for 100.0.4896 google-chrome
+Get LATEST chromedriver version for 100.0.4896 google-chrome
+Driver [C:\Users\Wedgewood\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+Driver [C:\Users\Wedgewood\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+*** Driver Initialized ***
+*** Driver Initialized ***
+*** Browser Launched ***
+*** Browser Launched ***
+*** Entering Login Credential ***
+*** Entering Login Credential ***
+*** Login Clicked ***
+*** Login Clicked ***
+*** LoginPage Title Match Verified
+*** LoginPage Title Match Verified
+*** Browser Closed ***
+*** Browser Closed ***
